@@ -1,4 +1,4 @@
-# This program is inspirated by one analogous (written by Roger Peng)
+# This program is inspirated by one analogous (written by Roger Peng) 
 # for computing the mean of a vector.
 #
 # In this case, we compute the inverse of a matrix
